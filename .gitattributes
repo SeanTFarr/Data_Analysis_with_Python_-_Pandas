@@ -1,1 +1,2 @@
 retail/retail_2016_2017.csv filter=lfs diff=lfs merge=lfs -text
+Project_data/project_transactions.csv filter=lfs diff=lfs merge=lfs -text
